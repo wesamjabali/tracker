@@ -30,7 +30,7 @@
         </button>
       </div>
       <div>
-        Responses:
+        Responses: (click on table header to see graph)
         <table>
           <tr>
             <th
